@@ -7,6 +7,7 @@
 *.aspx             text eol=crlf
 *.ascx             text eol=crlf
 *.ps1              text eol=crlf
+*.jscad            text eol=crlf diff=javascript
 app.config         text eol=crlf
 web.config         text eol=crlf
 appSettings.config text eol=crlf

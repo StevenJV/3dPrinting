@@ -2,7 +2,7 @@ function main() {
  return difference(
   union(
    difference(
-    cylinder({h: 14.5, r:4.5, center:true}),
+    cylinder({h: 14.5, r:4.44, center:true}),
     cylinder({h: 14.5, r:2.0, center:true})
     ),
    difference(
